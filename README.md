@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/1a56c686-ba39-4993-8922-b0297958b0d6)
 # `COVID-19 Data Analysis` ![Python](https://img.shields.io/badge/python-3.11-blue?logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
-This project explores and visualizes the global impact of the COVID-19 pandemic using data from the **Our World in Data** (https://ourworldindata.org/coronavirus) repository. This dataset offers a comprehensive view of the global effects of the COVID-19 pandemic, drawing on reliable data from esteemed organizations like the World Health Organization (WHO), the Centers for Disease Control and Prevention (CDC), and numerous national health ministries.
+This project explores and visualizes the global impact of the COVID-19 pandemic using data from the [Our World in Data](https://ourworldindata.org/coronavirus) repository. This dataset offers a comprehensive view of the global effects of the COVID-19 pandemic, drawing on reliable data from esteemed organizations like the World Health Organization (WHO), the Centers for Disease Control and Prevention (CDC), and numerous national health ministries.
 
 ## Introduction
 
